@@ -10,6 +10,9 @@
             color: red;
         }
         .card{
-            width: 40%;
+            width: 33.3333%;
+            border: 1px solid blue;
         }
     }
+
+    
