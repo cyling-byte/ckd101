@@ -9,4 +9,10 @@
             background-color: yellow;
             color: red;
         }
+        .card{
+            width: 33.3333%;
+            border: 1px solid blue;
+        }
     }
+
+    
