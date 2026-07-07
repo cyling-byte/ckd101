@@ -1,18 +1,16 @@
-    body{
-        background-color: #f59e9e;
-    }
-    .wrapper{
-        width: 100%;
-        max-width: 1200px;
+.wrapper {
+    width: 100%;
+    max-width: 1200px;
 
-        .about{
-            background-color: yellow;
-            color: red;
-        }
-        .card{
-            width: 33.3333%;
-            border: 1px solid blue;
-        }
+    .about {
+        background-color: yellow;
+        color: red;
     }
 
-    
+    .card {
+        width: 33.3333%;
+        border: 1px solid blue;
+        display: flex;
+        flex-wrap: nowrap;
+    }
+}
